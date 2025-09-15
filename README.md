@@ -1,2 +1,1 @@
-# sql-game
-sql
+# SQL-GAME-complete
